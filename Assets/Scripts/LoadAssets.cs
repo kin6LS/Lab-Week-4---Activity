@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LoadAssests : MonoBehaviour
+public class LoadAssets : MonoBehaviour
 {
 
     public GameObject redObj;
